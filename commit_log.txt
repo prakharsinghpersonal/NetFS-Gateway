@@ -1,1 +1,2 @@
 - Commit 2 (POSIX Translation): Implement the core Go logic that translates standard POSIX file system requests into GCP Cloud Storage API calls (bucket objects).
+- Commit 3 (Caching & Optimization): Add an in-memory or local disk caching layer in Go to optimize read/write latency and reduce direct GCP API calls.
