@@ -1,0 +1,1 @@
+# NetFS-Gateway\n\n**NetFS: Distributed Cloud-Native Gateway - Distributed, POSIX-compliant file gateway using Go and gRPC.**\n\n## Tech Stack\n- Go\n- gRPC\n- Prometheus\n- GCP\n
