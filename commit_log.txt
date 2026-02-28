@@ -1,0 +1,1 @@
+- Commit 2 (POSIX Translation): Implement the core Go logic that translates standard POSIX file system requests into GCP Cloud Storage API calls (bucket objects).
